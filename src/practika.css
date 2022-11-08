@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.wrapper {
+    padding: 30px 50px;
+}
+
+tr {
+    text-align: center;
+}
+
+.headText {
+    text-transform: uppercase;
+    background-color: rgba(197, 204, 202, 0.692);
+}
+
+a {
+    text-decoration: none;
+}
